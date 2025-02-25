@@ -1,4 +1,4 @@
-My name is Joseph Maina, a graduating LLB student in Kenya.
+My name is Joseph Maina, and I am a graduating LLB student in Kenya.
 I am currently learning everything I can in programming including HTML, CSS, JAVASCRIPT, and front-end and back-end development.
 My main goal is to apply these skills and make progress toward solving modern-day problems, such as climate change.
 As an LLB student, I would also like to apply these skills to provide better and more efficient services in my future career.
