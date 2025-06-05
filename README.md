@@ -1,7 +1,7 @@
 Hi 👋 My name is Joseph Maina
 =============================
 
-Full stack web developer
+Full-stack web developer
 ------------------------
 
 I am a graduating LLB student in Kenya. I am currently learning everything I can about programming, including HTML, CSS, JavaScript, and front-end and back-end development. My main goal is to apply these skills and make progress toward solving modern-day problems, such as climate change. As an LLB student, I would also like to use these skills to provide better and more efficient services in my future career.
